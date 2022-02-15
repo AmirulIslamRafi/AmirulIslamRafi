@@ -1,16 +1,23 @@
-### Hi there 👋
-
+# Hi 👋
+# Im Amrirul :smiley:
 <!--
 **AmirulIslamRafi/AmirulIslamRafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <h3 align="center"> :speech_balloon: I’m currently working on Grow Bangladesh (It's Software farm in Chittagong) :speech_balloon:</h3>
+- 🌱 I’m Exploring web technologies since 2015. Working with 60+ top Developers throughout the country. 🌱
+- 👯 I’m always happy to collaborate on the opensource platform like stack overflow, github 👯
+- :v: I have equipped with 200+ projects and have goal to Explore more. Also I have troubleshooted 1000+ code-related issues and defects :v:
+
+
+- 💬 Ask me about any programming related help on 💬
+**Amirul Islam Rafi**
+
+
+- 📫 How to reach me: 
+- :point_right: [Profile](https://github.com/AmirulIslamRafi "Amirul"):point_left:
+- :point_right:[Email](mailto:rafikhan97ctg@gmail.com?subject=Hi% "Hi!") :point_left:
+- :point_right:[Website](https://wallofamirul.blogspot.com "Welcome") :point_left:
+
 -->
