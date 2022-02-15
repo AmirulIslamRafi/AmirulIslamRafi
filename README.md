@@ -1,6 +1,6 @@
 # Hi 👋
-# Im Amrirul :smiley:
-<!--
+# I'm Amrirul :blush:
+
 **AmirulIslamRafi/AmirulIslamRafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - :point_right:[Email](mailto:rafikhan97ctg@gmail.com?subject=Hi% "Hi!") :point_left:
 - :point_right:[Website](https://wallofamirul.blogspot.com "Welcome") :point_left:
 
--->
+
