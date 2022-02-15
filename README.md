@@ -1,7 +1,6 @@
 # Hi 👋
 # I'm Amrirul :blush:
 
-Here are some ideas to get you started:
 
   <h3 align="center"> :thought_balloon: I’m currently working on Grow Bangladesh (It's Software farm in Chittagong) :thought_balloon:</h3>
 
