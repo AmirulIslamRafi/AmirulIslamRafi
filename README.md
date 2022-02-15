@@ -1,13 +1,11 @@
 # Hi 👋
 # I'm Amrirul :blush:
 
-**AmirulIslamRafi/AmirulIslamRafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-  <h3 align="center"> :speech_balloon: I’m currently working on Grow Bangladesh (It's Software farm in Chittagong) :speech_balloon:</h3>
-- 🌱 I’m Exploring web technologies since 2015. Working with 60+ top Developers throughout the country. 🌱
-- 👯 I’m always happy to collaborate on the opensource platform like stack overflow, github 👯
+  <h3 align="center"> :thought_balloon: I’m currently working on Grow Bangladesh (It's Software farm in Chittagong) :thought_balloon:</h3>:
+- :+1: I’m Exploring web technologies since 2015. Working with 60+ top Developers throughout the country.:
+- 👯 I’m always happy to collaborate on the opensource platform like stack overflow, github 👯:
 - :v: I have equipped with 200+ projects and have goal to Explore more. Also I have troubleshooted 1000+ code-related issues and defects :v:
 
 
